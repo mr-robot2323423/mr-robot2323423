@@ -15,11 +15,13 @@ u drugi user ti je
 
 
 
+
+
 --> ovakav ti je env za taj (mr_robot) user  (za referencu):
 
-	- ssh keys za ovaj nalog imaš
+- ssh keys za ovaj nalog imaš
 - Takođe ti je u istu ```group```. group name ti je ```collaborative``` (na ```setgid``` ti je folder)
-	- nema nikakvav zsh, vim dotfiles, ništa, običan bash
+- nema nikakvav zsh, vim dotfiles, ništa, običan bash
 
 
 
