@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**mr-robot2323423/mr-robot2323423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nešto za collaborative coding za faks i slično...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+u drugi user ti je
+```su```
+
+```$ su - mr_robot ```
+
+šifra za user ti je:  ```12345678```
+
+
+
+
+
+--> ovakav ti je env za taj (mr_robot) user  (za referencu):
+
+	- ssh keys za ovaj nalog imaš
+- Takođe ti je u istu ```group```. group name ti je ```collaborative``` (na ```setgid``` ti je folder)
+	- nema nikakvav zsh, vim dotfiles, ništa, običan bash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
